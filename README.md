@@ -43,15 +43,13 @@ I'm a 4th year Undergraduate student working with C/C++, Solidity, ReactJS......
 
 ********
 
-  
-<details>
-  <summary>📊 Github Stats</summary>
+## Github Stats 📈
+
+<p align='center'>
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=10xaman&show_icons=true&theme=gotham" alt="Aman's Stats" /> 
 
-</details>
-
-## Stats 📈
+</p>
 
 <p align='center'>
   <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xaman" />
