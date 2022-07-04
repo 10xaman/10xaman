@@ -36,6 +36,13 @@ I'm a 4th year Undergraduate student working with C/C++, Solidity, ReactJS......
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 
 ## Find me around the web 🌍
 
@@ -56,6 +63,13 @@ I'm a 4th year Undergraduate student working with C/C++, Solidity, ReactJS......
   <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xaman" />
 
   <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=10xaman" /> 
+</p>
+
+## Summary graph 📈
+
+<p align='center'>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?10xaman=vn7n24fzkq&theme=default)
+
 </p>
 
   #### Profile Views
