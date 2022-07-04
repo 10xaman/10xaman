@@ -67,6 +67,8 @@ I'm a 4th year Undergraduate student working with C/C++, Solidity, ReactJS......
 
 ## Summary graph 📈
 
+[![](https://activity-graph.herokuapp.com/graph?username=10xaman&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
+
 ## Profile Views :eyes:
   
 ![Visitor Count](https://profile-counter.glitch.me/{10xaman}/count.svg) 
