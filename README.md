@@ -5,7 +5,7 @@
 ## **Hellmo, I'm Aman!** 👋
 
 
-I'm a 4th year Undergraduate student at the working with C/C++, Solidity, ReactJS........ I enjoy playing football.
+I'm a 4th year Undergraduate student working with C/C++, Solidity, ReactJS........ I enjoy playing football.
 
 - 🌱 Looking to learn Flutter
 - 🔭 Working on Blockchain project
