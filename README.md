@@ -1,6 +1,9 @@
-![gif](coding.gif)
+<p align = "center">
+  <img src="https://github.com/10xaman/10xaman/blob/main/coding.gif" alt="Coding">
+</p>
 
 ## **Hellmo, I'm Aman!** 👋
+
 
 I'm a 4th year Undergraduate student at the working with C/C++, Solidity, ReactJS........ I enjoy playing football.
 
@@ -28,7 +31,6 @@ I'm a 4th year Undergraduate student at the working with C/C++, Solidity, ReactJ
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Workspace 🖥️
-
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
