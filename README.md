@@ -51,6 +51,16 @@ I'm a 4th year Undergraduate student working with C/C++, Solidity, ReactJS......
 
 </details>
 
+## Stats 📈
+
+<p align='center'>
+  <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xaman" />
+
+  <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=10xaman" /> 
+</p>
+
   #### Profile Views
   
 ![Visitor Count](https://profile-counter.glitch.me/{10xaman}/count.svg) 
+
+
