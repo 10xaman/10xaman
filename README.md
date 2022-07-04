@@ -1,4 +1,4 @@
-![gif](header.gif)
+![gif](programmer.gif)
 
 ## **Hellmo, I'm Aman!** 👋
 
