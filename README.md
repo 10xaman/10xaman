@@ -67,10 +67,6 @@ I'm a 4th year Undergraduate student working with C/C++, Solidity, ReactJS......
 
 ## Summary graph 📈
 
-<p align='center'>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?10xaman=vn7n24fzkq&theme=default)
-
-</p>
 
   #### Profile Views
   
